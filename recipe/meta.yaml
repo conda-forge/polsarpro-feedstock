@@ -1,5 +1,5 @@
 {% set python_min = "3.12" %}
-{% set version = "2025.12.2" %}
+{% set version = "2026.1.0" %}
 
 package:
   name: polsarpro
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/satim-co/PolSARpro/archive/{{ version }}.tar.gz
-  sha256: 8de124389d8d56e7e256f9f9dd179930e8264c6a81c1cac07132eb05716517e0
+  sha256: f09316219c4d43a0669cc91cd6335f89e8be2b8d9abd2f54478485d5500d7ff6
 
 build:
   noarch: python
