@@ -147,6 +147,3 @@ Feedstock Maintainers
 
 * [@odhondt](https://github.com/odhondt/)
 
-
-<!-- dummy commit to enable rerendering -->
-
