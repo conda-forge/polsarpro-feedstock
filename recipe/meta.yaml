@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/satim-co/PolSARpro/archive/{{ version }}.tar.gz
-  sha256: 29df1477208090fd83b192a8affd2bb42d167f27ca86193eb1910433ba12109b
+  sha256: 83176e3ac31bf42d490a47e5c2678cf1e20d2b5528239d4a4e633ddd0110fe9b
 
 build:
   noarch: python
