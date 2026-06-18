@@ -22,6 +22,9 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
+    - numpy
+    - scipy
+    - matplotlib
     - gdal
     - rasterio
     - geopandas
