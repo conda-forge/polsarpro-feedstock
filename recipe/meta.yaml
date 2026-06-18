@@ -24,7 +24,7 @@ requirements:
     - python >={{ python_min }}
     - numpy
     - scipy
-    - matplotlib
+    - matplotlib-base
     - gdal
     - rasterio
     - geopandas
