@@ -44,9 +44,14 @@ test:
     - pip
   imports:
     - polsarpro
+    - polsarpro.util
+    - polsarpro.classification
+    - polsarpro.decompositions
+    - polsarpro.io
+    - polsarpro.physical_inversion
+    - polsarpro.speckle_filters
   commands:
     - pip check
-    - python -c "import polsarpro.util, polsarpro.classification, polsarpro.decompositions, polsarpro.speckle_filters"
 
 about:
   home: https://github.com/satim-co/PolSARpro
