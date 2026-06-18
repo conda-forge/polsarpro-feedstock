@@ -46,6 +46,7 @@ test:
     - polsarpro
   commands:
     - pip check
+    - python -c "import polsarpro.util, polsarpro.classification, polsarpro.decompositions, polsarpro.speckle_filters"
 
 about:
   home: https://github.com/satim-co/PolSARpro
