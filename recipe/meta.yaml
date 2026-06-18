@@ -28,7 +28,7 @@ requirements:
     - pandas
     - xarray
     - netcdf4
-    - rioxarray <0.21
+    - rioxarray
     - dask
     - bottleneck
     - jupyter
